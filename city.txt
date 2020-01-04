@@ -1,0 +1,6 @@
+surat
+baroda
+bombay
+puna
+delhi
+cat city.txt
